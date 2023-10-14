@@ -116,7 +116,8 @@ img{
 }
 
 .section{
-    padding: 4rem 0 4rem;
+    margin-top: 2rem;
+    padding: 2rem 0 4rem;
 }
 
 .section_title{
