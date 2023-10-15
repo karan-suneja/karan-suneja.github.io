@@ -116,7 +116,7 @@ img{
 }
 
 .section{
-    padding: 4rem 0 0 0;
+    padding: 6rem 0 0 0;
 }
 
 .section_title{
@@ -934,9 +934,6 @@ img{
         padding: 0;
     }
 
-    .home, .about, .skills, .services, .project{
-        padding-bottom: 7rem;
-    }
 
     .services_container, .projects_container{
         padding-top: 2rem;
