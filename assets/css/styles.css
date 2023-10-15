@@ -347,7 +347,7 @@ img{
 }
 
 .about{
-    padding: 8rem 0 0 0;
+    padding: 8rem 0 4rem;
 }
 
 .about_ibuttons{
@@ -808,7 +808,6 @@ img{
 
     .section{
         padding: 8rem 0 0 0;
-        margin-bottom: 2rem;
     }
 
     .section_subtitle{
